@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Berbert</h1>
-<h3 align="center">Olá! Sou um desenvolvedor full-stack e SysAdmin com uma paixão genuína por tecnologia e infraestrutura robusta. Como mantenedor e entusiasta de projetos open source, dedico-me a construir soluções eficientes, otimizar sistemas e contribuir ativamente para a comunidade de software livre. Acredito no poder da colaboração e do conhecimento compartilhado para inovar.</h3>
+<h3 align="center">My professional journey is split between developing applications, managing complex infrastructures, and most importantly, diving headfirst into the open-source universe. As a project maintainer and enthusiast, I aim not only to create but also to enhance and share knowledge, actively contributing to the evolution of the free software community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoberbert&label=Profile%20views&color=0e75b6&style=flat" alt="leoberbert" /> </p>
 
