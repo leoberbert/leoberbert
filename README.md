@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi 👋 I'm Leonardo Berbert</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Open+Source+Maintainer&amp;lines=Platform+Engineer+%26+SRE&amp;lines=Crafting+experiences+for+the+BigLinux" alt="Typing introduction showing focus areas" />
-  <p>Open Source Maintainer • Platform Engineer &amp; SRE • Community Builder</p>
-  <img src="https://komarev.com/ghpvc/?username=leoberbert&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views counter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Open+Source+Maintainer;Platform+Engineer+%26+SRE;Building+reliable+and+scalable+systems" alt="Typing introduction showing focus areas" />
+  <p>Open Source Maintainer • Platform Engineer • SRE</p>
+  <img src="https://komarev.com/ghpvc/?username=leoberbert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </div>
 
 ---
